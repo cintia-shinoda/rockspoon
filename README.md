@@ -5,7 +5,7 @@
 </p>
 <br><br>
 
-## Ferramentas
+## Tools:
 <p>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
