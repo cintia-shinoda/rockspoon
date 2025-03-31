@@ -1,7 +1,7 @@
 # RockSpoon
 
 <p align="center">
-<img src="https://github.com/cintia-shinoda/rockspoon/blob/main/logo.png" alt="logo-rockspoon"/>
+<img src="https://github.com/cintia-shinoda/rockspoon/blob/main/logos/logo.png" alt="logo-rockspoon"/>
 </p>
 <br><br>
 
